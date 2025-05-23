@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Juude
-- 👀 I’m interested in data science,android,ai
+- 👀 I’m interested in data science,android,ai, developer the app MNN Chat
 - 🌱 I’m currently learning data science
 
 <!---
