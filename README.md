@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juude
 - 👀 I’m interested in data science,android,ai, developer the app MNN Chat
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently working on coding agents harness
 
 <!---
 Juude/Juude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
