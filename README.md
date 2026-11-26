@@ -1,5 +1,5 @@
 - 👀 I’m interested in data science,android,ai, developer the app MNN Chat
-- 🌱 I’m currently working on coding agents harness, and is looking job oppotunities like coding agents.
+- 🌱 🌱 I’m building a harness for coding agents and open to roles in this space.
 
 <!---
 Juude/Juude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
